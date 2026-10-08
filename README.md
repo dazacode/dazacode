@@ -16,12 +16,7 @@
 
 Almost everything here is built with [Claude Code](https://claude.com/claude-code) as my main coding assistant.
 
-- **[Redrawn-Revive](https://github.com/dazacode/Redrawn-Revive)**: Bun backend and web frontend for reviving the GoAnimate Wrapper (forked from Redrawn).
 - **[plugin-bridge-js](https://github.com/dazacode/plugin-bridge-js)**: A compatibility and translation toolkit for adapting foreign plugin ecosystems into a portable JavaScript runtime.
-- **[kuro-plugins](https://github.com/dazacode/kuro-plugins)**: The plugin platform for kuro: SDK, tooling, and plugins.
-- **[swayve-plugins](https://github.com/dazacode/swayve-plugins)**: Official and community plugins for Swayve.
-- **[ibroadcast-swayve-plugin](https://github.com/dazacode/ibroadcast-swayve-plugin)**: iBroadcast integration for Swayve, covering personal cloud music library, playback, and artwork.
-- **[yorozo-companion](https://github.com/dazacode/yorozo-companion)**: Runs Yorozo's companion on your own computer, so a browser tab can play what a browser cannot fetch for itself.
 - **[claude-image-view](https://github.com/dazacode/claude-image-view)** (fork): Thumbnails above the prompt in Claude Code, instead of bare `[Image #1]` tags.
 
 ## 📊 Stats
