@@ -14,6 +14,8 @@
 
 ## 🛠️ What I'm working on
 
+Almost everything here is built with [Claude Code](https://claude.com/claude-code) as my main coding assistant.
+
 - **[Redrawn-Revive](https://github.com/dazacode/Redrawn-Revive)**: Bun backend and web frontend for reviving the GoAnimate Wrapper (forked from Redrawn).
 - **[plugin-bridge-js](https://github.com/dazacode/plugin-bridge-js)**: A compatibility and translation toolkit for adapting foreign plugin ecosystems into a portable JavaScript runtime.
 - **[kuro-plugins](https://github.com/dazacode/kuro-plugins)**: The plugin platform for kuro: SDK, tooling, and plugins.
